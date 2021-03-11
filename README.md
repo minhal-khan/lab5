@@ -1,4 +1,4 @@
-# lab5
+## lab5
 This is a repo for labs 5 and 6 of CMPINF 0010. 
 
 # Description
@@ -14,3 +14,7 @@ print(f'Hi {name}, your number {num} is {primestat}!')
 
 # Members
 Minhal Khan, Radley Lettich
+
+## Links
+[License](https://github.com/minhal-khan/lab5/blob/main/LICENSE.md)
+[Conduct](https://github.com/minhal-khan/lab5/blob/main/CODE_OF_CONDUCT.md)
