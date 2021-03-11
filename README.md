@@ -8,5 +8,7 @@ It uses modulus (`%`) to test whether the remainder between the inputted number 
 If it isn't 0, it decreases step by 1. This repeats until the step is 1, in which the loop stops.
 After the loop is finished, the program uses `print` to display the results, along with the name input, in a detailed manner.
 
+```print(f'Hi {name}, your number {num} is {primestat}!')```
+
 # Members
 Minhal Khan, Radley Lettich
